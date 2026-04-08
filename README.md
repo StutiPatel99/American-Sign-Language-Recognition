@@ -1,1 +1,1 @@
-# American-Sign-Language-Recognition using OpenCV
+# American-Sign-Language-Recognition
